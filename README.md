@@ -7,7 +7,7 @@ I am a Master of Economic Policy student at the Research School of Economics, Au
 
 ## Experience
 - J-PAL Southeast Asia | Research Intern (_2022_)
-- TNP2K (Indonesia's National Team for the Acceleration of Poverty Reduction (_2022_)
+- TNP2K (Indonesia's National Team for the Acceleration of Poverty Reduction) | Data Analyst Intern (_2022_)
 
 ## Teaching Assistantship
 - EKO4608 Labor Economics (UGM) - 2022
