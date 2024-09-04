@@ -1,13 +1,9 @@
-<nav>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="display: inline; margin-right: 10px;"><a href="/">Home</a></li>
-    <li style="display: inline; margin-right: 10px;"><a href="/other/">Other</a></li>
-  </ul>
-</nav>
+[Home](/) [Other](/other/)
 
-layout: page
-title: "Home"
+---
+layout: default
 permalink: /
+---
 
 ## About
 I am a Master of Economic Policy student at the Research School of Economics, The Australian National University, and a recipient of the LPDP scholarship by Indonesia's Ministry of Finance. My current research interest lies in the area of development economics and labour economics, utilising impact evaluation methods to explore causal relationships. 
