@@ -1,13 +1,13 @@
 ## About
-I am a Master of Economic Policy student at the Research School of Economics, Australian National University.
+I am a Master of Economic Policy student at the Research School of Economics, Australian National University. My current research interest lies in the area of development economics and labour economics, utilising impact evaluation methods to explore causal relationships. 
 
 ## Education						       		
-- Master of Economic Policy | The Australian National University (ANU) (_February 2023 - Present_)	 			        		
-- Bachelor of Economics | Universitas Gadjah Mada (UGM) (_August 2018 - June 2022_)
+- Master of Economic Policy - The Australian National University (ANU) (_Feb 2023 - Present_)	 			        		
+- Bachelor of Economics - Universitas Gadjah Mada (UGM) (_Aug 2018 - Jun 2022_)
 
 ## Experience
-- J-PAL Southeast Asia | Research Intern (_2022_)
-- TNP2K (Indonesia's National Team for the Acceleration of Poverty Reduction) | Data Analyst Intern (_2022_)
+- J-PAL Southeast Asia - Research Intern (_Aug 2022 - Nov 2022_)
+- TNP2K (Indonesia's National Team for the Acceleration of Poverty Reduction) - Data Analyst Intern (_Feb 2022 - July 2022_)
 
 ## Teaching Assistantship
 - EKO4608 Labor Economics (UGM) - 2022
