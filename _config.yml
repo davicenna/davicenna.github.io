@@ -8,4 +8,8 @@ navigation:
     link: "/"
   - name: "Other"
     link: "/other/"
+
+git other.md _config.yml
+git commit -m "Add other page and update navigation"
+git push
   
