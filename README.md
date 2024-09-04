@@ -1,9 +1,9 @@
 ## About
-I am a Master of Economic Policy student at the Research School of Economics, Australian National University. My current research interest lies in the area of development economics and labour economics, utilising impact evaluation methods to explore causal relationships. 
+I am a Master of Economic Policy student at the Research School of Economics, The Australian National University, and a recipient of the LPDP scholarship by Indonesia's Ministry of Finance. My current research interest lies in the area of development economics and labour economics, utilising impact evaluation methods to explore causal relationships. 
 
 ## Education						       		
-- Master of Economic Policy - The Australian National University (ANU) (_Feb 2023 - Present_)	 			        		
-- Bachelor of Economics - Universitas Gadjah Mada (UGM) (_Aug 2018 - Jun 2022_)
+- Master of Economic Policy - **The Australian National University (ANU)** (_Feb 2023 - Present_)	 			        		
+- Bachelor of Economics - **Universitas Gadjah Mada (UGM)** (_Aug 2018 - Jun 2022_)
 
 ## Experience
 - J-PAL Southeast Asia - Research Intern (_Aug 2022 - Nov 2022_)
@@ -20,3 +20,6 @@ I am a Master of Economic Policy student at the Research School of Economics, Au
 - "Effects of severe air pollution on cognitive development and mental health"
 
 ### Research tools: Stata
+
+### Contact
+[data.avicenna@anu.edu.au](mailto:data.avicenna@anu.edu.au)
