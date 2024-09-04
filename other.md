@@ -1,3 +1,3 @@
-[Home](/) [Other](/other.md)
+[Home](./)      [Other](./other.html)
 
 # Hi everyone!
