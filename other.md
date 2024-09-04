@@ -5,4 +5,8 @@
   </ul>
 </nav>
 
+layout: page
+title: "Other"
+permalink: /other/
+
 # Hi everyone!
