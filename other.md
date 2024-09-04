@@ -1,12 +1,9 @@
-<nav>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="display: inline; margin-right: 10px;"><a href="/">Home</a></li>
-    <li style="display: inline; margin-right: 10px;"><a href="/other/">Other</a></li>
-  </ul>
-</nav>
+[Home](/) [Other](/other/)
 
-layout: page
-title: "Other"
+---
+layout: default
 permalink: /other/
+---
+
 
 # Hi everyone!
