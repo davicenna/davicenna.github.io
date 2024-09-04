@@ -1,8 +1,7 @@
-[Home](/) [Other](/other/)
+[Home](/) [Other](/other.md)
 
 ---
 layout: default
-permalink: /other/
 ---
 
 
