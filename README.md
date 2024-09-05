@@ -24,8 +24,5 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 ## Short Articles
 "[Tackling Poverty Amidst COVID-19 in Indonesia](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)", 2020, in AASYP Horizons Blog.
 
-## Research tools
-- Stata
-
 ## Contact
 [data.avicenna@anu.edu.au](mailto:data.avicenna@anu.edu.au)
