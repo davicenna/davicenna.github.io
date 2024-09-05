@@ -18,11 +18,9 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 ## Working Papers
 - “Do the returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?” with Gumilang Sahadewo, 2022.
 
-## Work-in-progress
-- "Effects of severe air pollution on cognitive development and mental health"
-
 ## Short Articles
-"[Tackling Poverty Amidst COVID-19 in Indonesia](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)", 2020, in AASYP Horizons Blog.
+- "[Tackling Poverty Amidst COVID-19 in Indonesia](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)", 2020, in AASYP Horizons Blog.
 
 ## Contact
-[data.avicenna@anu.edu.au](mailto:data.avicenna@anu.edu.au)
+Email: [data.avicenna@anu.edu.au](mailto:data.avicenna@anu.edu.au)
+Linkedin: [Data Avicenna](https://au.linkedin.com/in/dataavicenna)
