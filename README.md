@@ -19,7 +19,7 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 - “Do the returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?” with Gumilang Sahadewo, 2022.
 
 ## Short Articles
-- "[Tackling Poverty Amidst COVID-19 in Indonesia](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)", 2020, in AASYP Horizons Blog.
+- "Tackling Poverty Amidst COVID-19 in Indonesia", 2020, in AASYP Horizons Blog. [Link](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)
 
 ## Contact
 - Email: [data.avicenna@anu.edu.au](mailto:data.avicenna@anu.edu.au)
