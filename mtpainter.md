@@ -1,5 +1,7 @@
 [Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/resume.pdf)&nbsp;&nbsp;&nbsp;[Other](./other.html)&nbsp;&nbsp;&nbsp;[Gallery](./gallery.html)
 
+## Mount Painter, Canberra
+
 Mount Painter offers one of the best views of Canberra from its lookout. You can see both the Southern and Northern parts of Canberra, which not all lookouts in Canberra are able to offer. The hike to its lookout is not too steep and tiring, it is a quite easy hike with a really rewarding view! Here is a link to the hike trail that I used: [Link](https://www.alltrails.com/trail/australia/australian-capital-territory/mount-painter-via-bicentennial-nature-trail).
 
 If you live near the ANU, you can easily catch the 32 bus from Marcus Clarke St before Rimmer St.
