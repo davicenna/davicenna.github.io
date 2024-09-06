@@ -1,4 +1,4 @@
-[Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/resume.pdf)&nbsp;&nbsp;&nbsp;[Other](./other.html)
+[Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/resume.pdf)&nbsp;&nbsp;&nbsp;[Other](./other.html)&nbsp;&nbsp;&nbsp;[Gallery](./gallery.html)
 
 ## About
 I am a Master of Economic Policy student at the Research School of Economics, The Australian National University, and a recipient of the LPDP scholarship by Indonesia's Ministry of Finance. My current research interest lies in the area of development economics and labour economics, utilising impact evaluation methods to explore causal relationships. 
