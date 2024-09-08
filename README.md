@@ -20,7 +20,7 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 
 ## Short Articles
 - "Tackling Poverty Amidst COVID-19 in Indonesia", 2020, in AASYP Horizons Blog. [Link](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)
-- "Religiosity in Materialism", 2019, in HIMIESPA FEB UGM Medium. [Link](https://himiespa-ugm.medium.com/religiosity-in-materialism-7c21d4f5a5af)
+- "Religiosity in Materialism", 2019, in HIMIESPA FEB UGM. [Link](https://himiespa-ugm.medium.com/religiosity-in-materialism-7c21d4f5a5af)
 
 ## Contact
 - Email: [data.avicenna@anu.edu.au](mailto:data.avicenna@anu.edu.au)
