@@ -1,10 +1,10 @@
 [Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/resume.pdf)&nbsp;&nbsp;&nbsp;[Other](./other.html)&nbsp;&nbsp;&nbsp;[Gallery](./gallery.html)
 
 ## About
-I am a Master of Economic Policy student at the Research School of Economics, The Australian National University, and a recipient of the LPDP scholarship by Indonesia's Ministry of Finance. My current research interest lies in the area of development economics and labour economics, utilising impact evaluation methods to explore causal relationships. 
+I am a Master of Economic Policy student at the Research School of Economics, The Australian National University, and a recipient of the LPDP scholarship by Indonesia's Ministry of Finance. My current research interest lies in the area of development economics and labour economics. I am currently exploring the effects of early life exposure to air pollution from the 1997 Indonesian forest fires on cognitive development and mental health for my masters research project.
 
 ## Education						       		
-- Master of Economic Policy - The Australian National University (ANU) (_Feb 2023 - Present_)	 			        		
+- Master of Economic Policy - The Australian National University (ANU) (_Feb 2023 - Present_)
 - Bachelor of Economics - Universitas Gadjah Mada (UGM) (_Aug 2018 - Jun 2022_)
 
 ## Experience
@@ -15,12 +15,12 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 - EKO4608 Labor Economics (UGM) - 2022
 - EKO3115 Microeconometrics (UGM) - 2021
 
-## Working Papers
+## Working Papers and Work-in-progress
+- "Long-term effects of early life exposure to air pollution on cognitive development and mental health"
 - “Do the returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?” with Gumilang Sahadewo, 2022.
 
 ## Short Articles
 - "Tackling Poverty Amidst COVID-19 in Indonesia", 2020, in AASYP Horizons Blog. [Link](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)
-- "Religiosity in Materialism", 2019, in HIMIESPA FEB UGM. [Link](https://himiespa-ugm.medium.com/religiosity-in-materialism-7c21d4f5a5af)
 
 ## Contact
 - Email: [data.avicenna@anu.edu.au](mailto:data.avicenna@anu.edu.au)
