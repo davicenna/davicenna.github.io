@@ -13,7 +13,7 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 
 ## Teaching Assistantship
 - EKO4608 Labor Economics (UGM) - 2022
-- [EKO3115 Microeconometrics](assets/2021_microeconometrics.pdf) (UGM) - 2021
+- EKO3115 Microeconometrics (UGM) - 2021
 
 ## Working Papers and Work-in-progress
 - "Long-term effects of early life exposure to air pollution on cognitive development and mental health"
