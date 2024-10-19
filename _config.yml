@@ -2,7 +2,8 @@ title: Data Avicenna
 logo: /assets/img/profile.png
 #description: text below image
 show_downloads: false
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: benbalter/retlab
 plugins:
 #- jekyll-feed
 #- jekyll-seo-tag
