@@ -16,8 +16,8 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 - EKO3115 Microeconometrics (UGM) - 2021
 
 ## Working Papers and Work-in-progress
-- _Long-term effects of early life exposure to air pollution on cognitive development and mental health_ (2024) [[Report](assets/u7580905_Research%20Report.pdf)]
-- _Do the returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?_, with Gumilang Sahadewo (2022)
+- "Long-term effects of early life exposure to air pollution on cognitive development and mental health", 2024. [[Report](assets/u7580905_Research%20Report.pdf)]
+- "Do the returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Sahadewo, 2022.
 
 ## Short Articles
 - "Tackling Poverty Amidst COVID-19 in Indonesia", 2020, in AASYP Horizons Blog. [[Link](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)]
