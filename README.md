@@ -10,13 +10,14 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 ## Experience
 - J-PAL Southeast Asia - Research Intern (_Aug 2022 - Nov 2022_)
 - TNP2K (Indonesia's National Team for the Acceleration of Poverty Reduction) - Data Analyst Intern (_Feb 2022 - July 2022_)
+- Department of Economics UGM - Economics Laboratory Assistant (_May 2021 - Jan 2022_)
 
 ## Teaching Assistantship
 - EKO4608 Labor Economics (UGM) - 2022
 - EKO3115 Microeconometrics (UGM) - 2021
 
 ## Working Papers and Work-in-progress
-- "Long-term effects of early life exposure to air pollution on cognitive development and mental health", 2024. [[Report](assets/u7580905_Research%20Report.pdf)]
+- "Long-term effects of early life exposure to air pollution on cognitive development and mental health", 2024.
 - "Do the returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Sahadewo, 2022.
 
 ## Short Articles
