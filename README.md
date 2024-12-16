@@ -4,8 +4,8 @@
 I am a Master of Economic Policy student at the Research School of Economics, The Australian National University, and a recipient of the LPDP scholarship by Indonesia's Ministry of Finance. My current research interest lies in the area of development economics and labour economics. I am currently exploring the effects of early life exposure to air pollution from the 1997 Indonesian forest fires on cognitive development and mental health for my masters research project.
 
 ## Education						       		
-- Master of Economic Policy - The Australian National University (ANU) (_Feb 2023 - Present_)
-- Bachelor of Economics - Universitas Gadjah Mada (UGM) (_Aug 2018 - Jun 2022_)
+- Master of Economic Policy - The Australian National University (ANU) (_2023 - 2024_)
+- Bachelor of Economics - Universitas Gadjah Mada (UGM) (_2018 - 2022_)
 
 ## Experience
 - J-PAL Southeast Asia - Research Intern (_Aug 2022 - Nov 2022_)
@@ -17,7 +17,6 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 - EKO3115 Microeconometrics (UGM) - 2021
 
 ## Working Papers and Work-in-progress
-- "Long-term effects of early life exposure to air pollution on cognitive development and mental health", 2024.
 - "Do the returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Sahadewo, 2022.
 
 ## Short Articles
