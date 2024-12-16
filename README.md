@@ -17,7 +17,7 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 - EKO3115 Microeconometrics (UGM) - 2021
 
 ## Working Papers and Work-in-progress
-- "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Sahadewo, 2022. [Slides](assets/AASLE_2024.pdf)
+- "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Sahadewo, 2022. [[Slides](assets/AASLE_2024.pdf)]
 
 ## Short Articles
 - "Tackling Poverty Amidst COVID-19 in Indonesia", 2020, in AASYP Horizons Blog. [[Link](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)]
