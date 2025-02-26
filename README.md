@@ -1,7 +1,7 @@
 [Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Other](./other.html)&nbsp;&nbsp;&nbsp;[Gallery](./gallery.html)
 
 ## About
-I am a Master of Economic Policy student at the Research School of Economics, The Australian National University, and a recipient of the LPDP scholarship by Indonesia's Ministry of Finance. My current research interest lies in the area of development economics and labour economics. I am currently exploring the effects of early life exposure to air pollution from the 1997 Indonesian forest fires on cognitive development and mental health for my masters research project.
+I am a recent masters graduate from the Research School of Economics, The Australian National University, and I was a recipient of the LPDP scholarship by Indonesia's Ministry of Finance. My current research interest lies in the area of labour economics and development economics.
 
 ## Education						       		
 - Master of Economic Policy - The Australian National University (ANU) (_2023 - 2024_)
@@ -17,9 +17,10 @@ I am a Master of Economic Policy student at the Research School of Economics, Th
 - EKO3115 Microeconometrics (UGM) - 2021
 
 ## Working Papers and Work-in-progress
-- "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Sahadewo, 2022. [[Slides](assets/AASLE_2024.pdf)]
+- "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Sahadewo. [[Slides](assets/AASLE_2024.pdf)]
 
 ## Short Articles
+- "Burning questions over Indonesia’s cooking transition" [[Link](https://doi.org/10.59425/eabc.1740088800)]
 - "Tackling Poverty Amidst COVID-19 in Indonesia", 2020, in AASYP Horizons Blog. [[Link](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)]
 
 ## Contact
