@@ -8,3 +8,5 @@ Some highlights of my outdoor activities:
 
 ![Parkrun](/assets/img/IMG_1958.JPG)
 
+![Hiking](/assets/img/1000057002.JPG)
+
