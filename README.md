@@ -20,7 +20,7 @@ I am a recent masters graduate from the Research School of Economics, The Austra
 - "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Sahadewo. [[Slides](assets/AASLE_2024.pdf)]
 
 ## Short Articles
-- "Burning questions over Indonesia’s cooking transition" [[Link](https://doi.org/10.59425/eabc.1740088800)]
+- "Burning questions over Indonesia’s cooking transition", 2025, with Intan Permata Sari, in East Asia Forum. [[Link](https://doi.org/10.59425/eabc.1740088800)]
 - "Tackling Poverty Amidst COVID-19 in Indonesia", 2020, in AASYP Horizons Blog. [[Link](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)]
 
 ## Contact
