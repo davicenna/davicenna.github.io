@@ -4,3 +4,4 @@
 
 - [Mount Painter, Canberra](./mtpainter.html)
 - [Urambi Hills Nature Reserve, Canberra](./urambi.html)
+- [Mount Ainslie, Canberra](./ainslie.html)
