@@ -1,4 +1,4 @@
-[Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Other](./other.html)&nbsp;&nbsp;&nbsp;[Gallery](./gallery.html)
+[Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Other](./other.html)&nbsp;&nbsp;&nbsp;[Gallery](./gallery.html)&nbsp;&nbsp;&nbsp;[Medium](https://dataavicenna.medium.com)
 
 ## About
 I am a recent masters graduate from the Research School of Economics, The Australian National University, and I was a recipient of the LPDP scholarship by Indonesia's Ministry of Finance. My current research interests lie in the area of labour economics and development economics.
