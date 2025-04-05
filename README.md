@@ -25,4 +25,4 @@ I am a recent masters graduate from the Research School of Economics, The Austra
 
 ## Contact
 - Email: [data.avicenna@anu.edu.au](mailto:data.avicenna@anu.edu.au)
-- Linkedin: [Data Avicenna](https://au.linkedin.com/in/dataavicenna)
+- Linkedin: [Data Avicenna](https://linkedin.com/in/dataavicenna)
