@@ -1,7 +1,7 @@
 [Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Medium](https://dataavicenna.medium.com)
 
 ## About
-I am an Academic Assistant (Economics) at the Department of Economics, Universitas Gadjah Mada, Indonesia. I earned my bachelor's degree from the Department of Economics, Universitas Gadjah Mada, and my master's degree from the Research School of Economics, The Australian National University. I received the LPDP scholarship by Indonesia's Ministry of Finance to pursue my master's degree. My primary research interests currently lie in the area of labour economics and development economics.
+I am an Academic Assistant (Economics) at the Department of Economics, Universitas Gadjah Mada, Indonesia. I earned my bachelor's degree from the Department of Economics, Universitas Gadjah Mada, and my master's degree from the Research School of Economics, The Australian National University. I received the LPDP scholarship from Indonesia's Ministry of Finance to pursue my master's degree. My primary research interests currently lie in the area of labour economics and development economics.
 
 In my spare time, I enjoy running, hiking, and trekking in nature.
 
