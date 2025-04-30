@@ -3,7 +3,7 @@
 ## About
 I am an Academic Assistant (Economics) at the Department of Economics, Universitas Gadjah Mada, Indonesia. I earned my bachelor's degree from the Department of Economics, Universitas Gadjah Mada, and my master's degree from the Research School of Economics, The Australian National University. I was a recipient of the LPDP scholarship by Indonesia's Ministry of Finance to pursue my master's program. My main research interests currently lie in the area of labour economics and development economics.
 
-In my spare time, I like going for a run! I also like hiking and trekking in nature!
+In my spare time, I like going for a run! I also enjoy hiking and trekking in nature!
 
 ## Education						       		
 - Master of Economic Policy - The Australian National University (ANU) (_2023 - 2024_)
