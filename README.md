@@ -1,9 +1,9 @@
 [Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Medium](https://dataavicenna.medium.com)
 
 ## About
-I am an Academic Assistant (Economics) at the Department of Economics, Universitas Gadjah Mada, Indonesia. I earned my bachelor's degree from the Department of Economics, Universitas Gadjah Mada, and my master's degree from the Research School of Economics, The Australian National University. I was a recipient of the LPDP scholarship by Indonesia's Ministry of Finance to pursue my master's program. My main research interests currently lie in the area of labour economics and development economics.
+I am an Academic Assistant (Economics) at the Department of Economics, Universitas Gadjah Mada, Indonesia. I earned my bachelor's degree from the Department of Economics, Universitas Gadjah Mada, and my master's degree from the Research School of Economics, The Australian National University. I received the LPDP scholarship by Indonesia's Ministry of Finance to pursue my master's degree. My primary research interests currently lie in the area of labour economics and development economics.
 
-In my spare time, I like going for a run! I also enjoy hiking and trekking in nature!
+In my spare time, I enjoy running, hiking, and trekking in nature.
 
 ## Education						       		
 - Master of Economic Policy - The Australian National University (ANU) (_2023 - 2024_)
@@ -12,7 +12,7 @@ In my spare time, I like going for a run! I also enjoy hiking and trekking in na
 ## Experience
 - Faculty of Economics and Business, Universitas Gadjah Mada (UGM) - Academic Assistant (Economics) (_Apr 2025 - Present_)
 - Abdul Latif Jameel Poverty Action Lab (J-PAL) Southeast Asia - Research Intern (_Aug 2022 - Nov 2022_)
-- TNP2K (Indonesia's National Team for the Acceleration of Poverty Reduction) - Data Analyst Intern (_Feb 2022 - July 2022_)
+- TNP2K (Indonesia's National Team for the Acceleration of Poverty Reduction) - Data Analyst Intern (_Feb 2022 - Jul 2022_)
 - Faculty of Economics and Business, Universitas Gadjah Mada (UGM) - Economics Laboratory Assistant (_May 2021 - Jan 2022_)
 
 ## Teaching Assistantship
