@@ -12,7 +12,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 ## Experience
 - Faculty of Economics and Business, Universitas Gadjah Mada (UGM) - Academic Assistant (Economics) (_Apr 2025 - Present_)
 - Abdul Latif Jameel Poverty Action Lab (J-PAL) Southeast Asia - Research Intern (_Aug 2022 - Nov 2022_)
-- TNP2K (Indonesia's National Team for the Acceleration of Poverty Reduction) - Data Analyst Intern (_Feb 2022 - Jul 2022_)
+- Indonesia's National Team for the Acceleration of Poverty Reduction (TNP2K) - Data Analyst Intern (_Feb 2022 - Jul 2022_)
 - Faculty of Economics and Business, Universitas Gadjah Mada (UGM) - Economics Laboratory Assistant (_May 2021 - Jan 2022_)
 
 ## Teaching Assistantship
