@@ -1,7 +1,9 @@
 [Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Medium](https://dataavicenna.medium.com)
 
 ## About
-I am an Academic Assistant (Economics) at the Department of Economics, Universitas Gadjah Mada, Indonesia. I earned my bachelor's degree from the Department of Economics, Universitas Gadjah Mada, and my master's degree from the Research School of Economics, The Australian National University. I received the LPDP scholarship from Indonesia's Ministry of Finance to pursue my master's degree. My primary research interests currently lie in the area of labour economics and development economics.
+I am an Academic Assistant (Economics) at the Department of Economics, Universitas Gadjah Mada, Indonesia. 
+
+I earned my bachelor's degree from the Department of Economics, Universitas Gadjah Mada, and my master's degree from the Research School of Economics, The Australian National University. I received the LPDP scholarship from Indonesia's Ministry of Finance to pursue my master's degree. My primary research interests currently correspond to topics in applied microeconomics, such as those related to labour economics and development economics.
 
 In my spare time, I enjoy running, hiking, and trekking in nature.
 
@@ -10,10 +12,10 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - Bachelor of Economics - Universitas Gadjah Mada (UGM) (_2018 - 2022_)
 
 ## Experience
-- Faculty of Economics and Business, Universitas Gadjah Mada (UGM) - Academic Assistant (Economics) (_Apr 2025 - Present_)
-- Abdul Latif Jameel Poverty Action Lab (J-PAL) Southeast Asia - Research Intern (_Aug 2022 - Nov 2022_)
-- Indonesia's National Team for the Acceleration of Poverty Reduction (TNP2K) - Data Analyst Intern (_Feb 2022 - Jul 2022_)
-- Faculty of Economics and Business, Universitas Gadjah Mada (UGM) - Economics Laboratory Assistant (_May 2021 - Jan 2022_)
+- **Faculty of Economics and Business, Universitas Gadjah Mada (UGM)** - Academic Assistant (Economics) (_Apr 2025 - Present_)
+- **Abdul Latif Jameel Poverty Action Lab (J-PAL) Southeast Asia** - Research Intern (_Aug 2022 - Nov 2022_)
+- **Indonesia's National Team for the Acceleration of Poverty Reduction (TNP2K)** - Data Analyst Intern (_Feb 2022 - Jul 2022_)
+- **Faculty of Economics and Business, Universitas Gadjah Mada (UGM)** - Economics Laboratory Assistant (_May 2021 - Jan 2022_)
 
 ## Teaching Assistantship
 - EKO4608 Labor Economics (Undergraduate, UGM) - 2022
