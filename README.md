@@ -25,8 +25,8 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - MAT13 Mathematics for Economics (Pre-Masters, Faculty of Economics and Business UGM) - 2025
 
 ## Teaching Assistantship
-- EKO4608 Labor Economics (Undergraduate, UGM) - 2022
-- EKO3115 Microeconometrics (Undergraduate, UGM) - 2021
+- EKO4608 Labor Economics (Undergraduate, Faculty of Economics and Business UGM) - 2022
+- EKO3115 Microeconometrics (Undergraduate, Faculty of Economics and Business UGM) - 2021
 
 ## Working Papers and Work-in-Progress
 - "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Aryo Sahadewo. [[Slides](assets/AASLE_2024.pdf)]
