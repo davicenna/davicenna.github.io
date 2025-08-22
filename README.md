@@ -18,15 +18,17 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - Faculty of Economics and Business, Universitas Gadjah Mada (UGM) - Economics Laboratory Assistant (_May 2021 - Jan 2022_)
 
 ## Teaching
-- EBIE222104 Statistics 1 (Undergraduate, Faculty of Economics and Business UGM) - 2025
+### Faculty of Economics and Business, UGM:
+- EBIE222104 Statistics 1 (Undergraduate) - 2025
 - EBIE222101 Introduction to Economics 1 (Undergraduate, Faculty of Economics and Business UGM) - 2025
+- MAT13 Mathematics for Economics (Pre-Masters, Faculty of Economics and Business UGM) - 2025
+### Other faculties at UGM:
 - MMA2503 Introduction to Macroeconomics (Undergraduate, Faculty of Mathematics and Natural Sciences UGM) - 2025
 - SPPP212105 Introduction to Economics (Undergraduate, Faculty of Social and Political Sciences UGM) - 2025
-- MAT13 Mathematics for Economics (Pre-Masters, Faculty of Economics and Business UGM) - 2025
 
 ## Teaching Assistantship
-- EKO4608 Labor Economics (Undergraduate, Faculty of Economics and Business UGM) - 2022
-- EKO3115 Microeconometrics (Undergraduate, Faculty of Economics and Business UGM) - 2021
+- EKO4608 Labor Economics (Undergraduate, UGM) - 2022
+- EKO3115 Microeconometrics (Undergraduate, UGM) - 2021
 
 ## Working Papers and Work-in-Progress
 - "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Aryo Sahadewo. [[Slides](assets/AASLE_2024.pdf)]
