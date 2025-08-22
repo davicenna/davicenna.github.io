@@ -22,6 +22,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - EBIE222104 Statistics 1 (Undergraduate) - 2025
 - EBIE222101 Introduction to Economics 1 (Undergraduate) - 2025
 - MAT13 Mathematics for Economics (Pre-Masters) - 2025
+
 ### Other faculties at UGM:
 - MMA2503 Introduction to Macroeconomics (Undergraduate) - 2025
 - SPPP212105 Introduction to Economics (Undergraduate) - 2025
