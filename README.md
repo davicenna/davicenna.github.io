@@ -24,8 +24,8 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - MAT13 Mathematics for Economics (Pre-Masters) - 2025
 
 #### Other faculties at UGM:
-- MMA2503 Introduction to Macroeconomics (Undergraduate) - 2025
-- SPPP212105 Introduction to Economics (Undergraduate) - 2025
+- MMA2503 Introduction to Macroeconomics (Undergraduate, Faculty of Mathematics and Natural Sciences) - 2025
+- SPPP212105 Introduction to Economics (Undergraduate, Faculty of Social and Political Sciences) - 2025
 
 ## Teaching Assistantship
 - EKO4608 Labor Economics (Undergraduate, UGM) - 2022
