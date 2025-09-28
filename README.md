@@ -37,7 +37,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - "The Impact of Commuting on Wages: Quasi-Experimental Evidence from Indonesia's Largest Metropolitan Area", with Naufal Mohamad Firdausyan.
 
 ## Short Articles
-- "Burning questions over Indonesia’s cooking transition", 2025, with Intan Permata Sari, in East Asia Forum. [[Link](https://doi.org/10.59425/eabc.1740088800)]
+- "Burning questions over Indonesia’s cooking transition", 2025, in East Asia Forum. [[Link](https://doi.org/10.59425/eabc.1740088800)]
 - "Tackling Poverty Amidst COVID-19 in Indonesia", 2020, in AASYP Horizons Blog. [[Link](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)]
 
 ## Contact
