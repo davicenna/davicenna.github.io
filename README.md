@@ -34,7 +34,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 ## Working Papers and Work-in-Progress
 - "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Aryo Sahadewo. [[Slides](assets/AASLE_2024.pdf)]
 - "Assessing Local Environmental Spending and Air Pollution Reduction in Indonesia: A Satellite Data Approach", with Ega Kurnia Yazid, Kelvin Ramadhan Hidayat, and Muhammad Faiz Zaidan Alharkan. [[Slides](assets/ADB_Conference.pdf)]
-- "The Impact of Commuting on Wages: Quasi-Experimental Evidence from Indonesia's Largest Metropolitan Area", with Naufal Mohamad Firdausyan.
+- "The Impact of Commuting on Wages: Quasi-Experimental Evidence from Indonesia's Largest Metropolitan Area", with Naufal Mohamad Firdausyan. [[Slides](assets/APEF_Presentation_2025.pdf)]
 
 ## Short Articles
 - "Burning questions over Indonesia’s cooking transition", 2025, in East Asia Forum. [[Link](https://doi.org/10.59425/eabc.1740088800)]
