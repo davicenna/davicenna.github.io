@@ -1,7 +1,7 @@
 [Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Medium](https://dataavicenna.medium.com)
 
 ## About
-I am a Lecturer at the Department of Economics, Universitas Gadjah Mada (UGM), Indonesia. 
+I am a Lecturer at the Department of Economics, Universitas Gadjah Mada (UGM), Indonesia. [UGM Profile](https://feb.ugm.ac.id/en/profile/lecturers/2212-data-avicenna)
 
 I earned my bachelor's degree from the Department of Economics, Universitas Gadjah Mada (UGM), and my master's degree from the Research School of Economics, The Australian National University (ANU). I received the LPDP scholarship from Indonesia's Ministry of Finance to pursue my master's degree. My primary research interests currently correspond to topics in applied microeconomics, such as those related to labour economics and development economics.
 
