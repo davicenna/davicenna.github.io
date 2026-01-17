@@ -21,11 +21,15 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 ## Teaching
 #### Faculty of Economics and Business, UGM:
 - EBIE222104 Statistics 1 (Undergraduate) - 2025
+- EBIE222204 Statistics 2 (Undergraduate) - 2026
 - EBIE222101 Introduction to Economics 1 (Undergraduate) - 2025
-- MAT13 Mathematics for Economics (Pre-Masters) - 2025
+- EBIE222101 Introduction to Economics 2 (Undergraduate) - 2026
+- MAT13 Mathematics for Economics (Master of Economic Development) - 2025-2026
+- MAN5007 Managerial Economics (Master of Business Administration) - 2026
 
 #### Other faculties at UGM:
 - MMA2503 Introduction to Macroeconomics (Undergraduate, Faculty of Mathematics and Natural Sciences) - 2025
+- MMA1504 Introduction to Microeconomics (Undergraduate, Faculty of Mathematics and Natural Sciences) - 2026
 - SPPP212105 Introduction to Economics (Undergraduate, Faculty of Social and Political Sciences) - 2025
 
 ## Teaching Assistantship
