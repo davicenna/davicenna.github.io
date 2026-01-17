@@ -36,6 +36,9 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - EKO4608 Labor Economics (Undergraduate, UGM) - 2022
 - EKO3115 Microeconometrics (Undergraduate, UGM) - 2021
 
+## Research Assistantship
+- "Do Celebrity Endorsements Matter? A Twitter Experiment Promoting Vaccination in Indonesia", Vivi Alatas, Arun G Chandrasekhar, Markus Mobius, Benjamin A Olken, Cindy Paladines, in _The Economic Journal_ (2024). [[Link](https://doi.org/10.1093/ej/uead102)]
+
 ## Working Papers and Work-in-Progress
 - "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Aryo Sahadewo. [[Slides](assets/AASLE_2024.pdf)]
 - "Assessing Local Environmental Spending and Air Pollution Reduction in Indonesia: A Satellite Data Approach", with Ega Kurnia Yazid, Kelvin Ramadhan Hidayat, and Muhammad Faiz Zaidan Alharkan. [[Slides](assets/ADB_Conference.pdf)]
