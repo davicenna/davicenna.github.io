@@ -49,6 +49,6 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - "Tackling Poverty Amidst COVID-19 in Indonesia", 2020, in AASYP Horizons Blog. [[Link](https://aasyp.org/2020/10/12/tackling-poverty-amidst-covid-19-in-indonesia/)]
 
 ## Contact
-- Office: Room S.317, South Wing Building, Faculty of Economics and Business UGM, Yogyakarta 55281, Indonesia
+- Office: Room S.317, South Wing Building, Faculty of Economics and Business UGM, Yogyakarta, Indonesia, 55281
 - Email: [data.avicenna@alumni.anu.edu.au](mailto:data.avicenna@alumni.anu.edu.au)
 - Linkedin: [Data Avicenna](https://linkedin.com/in/dataavicenna)
