@@ -50,5 +50,5 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 
 ## Contact
 - Office: Room S.317, South Wing Building, Faculty of Economics and Business UGM, Yogyakarta, Indonesia, 55281
-- Email: [data.avicenna@alumni.anu.edu.au](mailto:data.avicenna@alumni.anu.edu.au)
+- Email: [dataavicenna@ugm.ac.id](mailto:dataavicenna@ugm.ac.id)
 - Linkedin: [Data Avicenna](https://linkedin.com/in/dataavicenna)
