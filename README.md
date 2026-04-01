@@ -23,7 +23,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - EBIE222104 Statistics 1 (Undergraduate) - 2025
 - EBIE222204 Statistics 2 (Undergraduate) - 2026
 - EBIE222101 Introduction to Economics 1 (Undergraduate) - 2025
-- EBIE222101 Introduction to Economics 2 (Undergraduate) - 2026
+- EBIE222201 Introduction to Economics 2 (Undergraduate) - 2026
 - MAT13 Mathematics for Economics (Pre-Masters) - 2025-2026
 - MAN5007 Managerial Economics (Pre-Masters) - 2026
 
