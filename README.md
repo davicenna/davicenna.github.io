@@ -11,13 +11,6 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - Master of Economic Policy - The Australian National University (ANU) (_2023 - 2024_)
 - Bachelor of Economics - Universitas Gadjah Mada (UGM) (_2018 - 2022_)
 
-## Experience
-- Faculty of Economics and Business, Universitas Gadjah Mada (UGM) - Lecturer (_Jan 2026 - Present_)
-- Faculty of Economics and Business, Universitas Gadjah Mada (UGM) - Junior Lecturer (_Apr 2025 - Dec 2025_)
-- Abdul Latif Jameel Poverty Action Lab (J-PAL) Southeast Asia - Research Intern (_Aug 2022 - Nov 2022_)
-- Indonesia's National Team for the Acceleration of Poverty Reduction (TNP2K) - Data Analyst (_Feb 2022 - Jul 2022_)
-- Faculty of Economics and Business, Universitas Gadjah Mada (UGM) - Economics Laboratory Assistant (_May 2021 - Jan 2022_)
-
 ## Teaching
 #### Faculty of Economics and Business, UGM:
 - EBIE222104 Statistics 1 (Undergraduate) - 2025
