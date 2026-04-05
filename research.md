@@ -9,3 +9,4 @@
 
 ### Research Assistantship
 - "Do Celebrity Endorsements Matter? A Twitter Experiment Promoting Vaccination in Indonesia", Vivi Alatas, Arun G Chandrasekhar, Markus Mobius, Benjamin A Olken, Cindy Paladines, in _The Economic Journal_ (2024). [[Link](https://doi.org/10.1093/ej/uead102)]
+
