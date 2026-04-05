@@ -1,3 +1,5 @@
+[Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Teaching](./teaching.html)&nbsp;&nbsp;&nbsp;[Research](./research.html)&nbsp;&nbsp;&nbsp;[Medium](https://dataavicenna.medium.com)
+
 ## Research
 
 ### Working Papers and Work-in-Progress
