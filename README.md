@@ -1,4 +1,4 @@
-[Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Medium](https://dataavicenna.medium.com)
+[Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Teaching](./teaching.html)&nbsp;&nbsp;&nbsp;[Research](./research.html)&nbsp;&nbsp;&nbsp;[Medium](https://dataavicenna.medium.com)
 
 ## About
 I am a [Lecturer](https://feb.ugm.ac.id/en/profile/lecturers/2212-data-avicenna) at the Department of Economics, Universitas Gadjah Mada (UGM), Indonesia.
