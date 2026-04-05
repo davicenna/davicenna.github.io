@@ -14,7 +14,7 @@
 - MMA1504 Introduction to Microeconomics (Undergraduate, Faculty of Mathematics and Natural Sciences) - 2026
 - SPPP212105 Introduction to Economics (Undergraduate, Faculty of Social and Political Sciences) - 2025
 
-## Teaching Assistantship
+#### Teaching Assistantship:
 - SPSEI223219 Applied Econometrics (Postgraduate, UGM) - 2026
 - EKO4608 Labor Economics (Undergraduate, UGM) - 2022
 - EKO3115 Microeconometrics (Undergraduate, UGM) - 2021
