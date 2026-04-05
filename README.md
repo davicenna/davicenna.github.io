@@ -1,7 +1,7 @@
 [Home](./)&nbsp;&nbsp;&nbsp;[Resume](assets/CV.pdf)&nbsp;&nbsp;&nbsp;[Teaching](./teaching.html)&nbsp;&nbsp;&nbsp;[Research](./research.html)&nbsp;&nbsp;&nbsp;[Medium](https://dataavicenna.medium.com)
 
 ## About
-I am a [Lecturer](https://feb.ugm.ac.id/en/profile/lecturers/2212-data-avicenna) at the Department of Economics, Universitas Gadjah Mada (UGM), Indonesia.
+I am a Lecturer at the Department of Economics, Universitas Gadjah Mada (UGM), Indonesia.
 
 I earned my bachelor's degree from the Department of Economics, Universitas Gadjah Mada (UGM), and my master's degree from the Research School of Economics, The Australian National University (ANU). I received the LPDP scholarship from Indonesia's Ministry of Finance to pursue my master's degree. My primary research interests currently correspond to topics in applied microeconomics, such as those related to labour economics and development economics.
 
@@ -11,29 +11,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - Master of Economic Policy - The Australian National University (ANU) (_2023 - 2024_)
 - Bachelor of Economics - Universitas Gadjah Mada (UGM) (_2018 - 2022_)
 
-## Teaching
-#### Faculty of Economics and Business, UGM:
-- EBIE222104 Statistics 1 (Undergraduate) - 2025
-- EBIE222204 Statistics 2 (Undergraduate) - 2026
-- EBIE222101 Introduction to Economics 1 (Undergraduate) - 2025
-- EBIE222201 Introduction to Economics 2 (Undergraduate) - 2026
-- MAT13 Mathematics for Economics (Pre-Masters) - 2025-2026
-- MAN5007 Managerial Economics (Pre-Masters) - 2026
-
-#### Other faculties at UGM:
-- MMA2503 Introduction to Macroeconomics (Undergraduate, Faculty of Mathematics and Natural Sciences) - 2025
-- MMA1504 Introduction to Microeconomics (Undergraduate, Faculty of Mathematics and Natural Sciences) - 2026
-- SPPP212105 Introduction to Economics (Undergraduate, Faculty of Social and Political Sciences) - 2025
-
-## Teaching Assistantship
-- SPSEI223219 Applied Econometrics (Postgraduate, UGM) - 2026
-- EKO4608 Labor Economics (Undergraduate, UGM) - 2022
-- EKO3115 Microeconometrics (Undergraduate, UGM) - 2021
-
-## Research Assistantship
-- "Do Celebrity Endorsements Matter? A Twitter Experiment Promoting Vaccination in Indonesia", Vivi Alatas, Arun G Chandrasekhar, Markus Mobius, Benjamin A Olken, Cindy Paladines, in _The Economic Journal_ (2024). [[Link](https://doi.org/10.1093/ej/uead102)]
-
-## Working Papers and Work-in-Progress
+## Selected Working Papers and Work-in-Progress
 - "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Aryo Sahadewo. [[Slides](assets/AASLE_2024.pdf)] [[Working Paper](https://ideas.repec.org/p/gme/wpaper/202507006.html)]
 - "Assessing Local Environmental Spending and Air Pollution Reduction in Indonesia: A Satellite Data Approach", with Ega Kurnia Yazid, Kelvin Ramadhan Hidayat, and Muhammad Faiz Zaidan Alharkan. [[Slides](assets/ADB_Conference.pdf)]
 - "The Impact of Commuting on Wages: Quasi-Experimental Evidence from Indonesia's Largest Metropolitan Area", with Naufal Mohamad Firdausyan. [[Slides](assets/APEF_Presentation_2025.pdf)]
@@ -46,3 +24,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - Office: Room S.317, South Wing Building, Faculty of Economics and Business UGM, Yogyakarta, Indonesia, 55281
 - Email: [dataavicenna@ugm.ac.id](mailto:dataavicenna@ugm.ac.id)
 - Linkedin: [Data Avicenna](https://linkedin.com/in/dataavicenna)
+
+## Other Links
+- FEB UGM Lecturer Profile: [Link](https://feb.ugm.ac.id/en/profile/lecturers/2212-data-avicenna)
+- Google Scholar: [Link](https://scholar.google.com/citations?user=CyHRuT0AAAAJ&hl=en&oi=ao)
