@@ -13,9 +13,12 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - Master of Economic Policy - The Australian National University (ANU) (_2023 - 2024_)
 - Bachelor of Economics - Universitas Gadjah Mada (UGM) (_2018 - 2022_)
 
+## Publications
+### Book Chapter
+“Assessing Local Environmental Spending and Air Pollution Reduction in Indonesia: A Satellite Data Approach,” with Ega Kurnia Yazid, Kelvin Ramadhan Hidayat, and Muhammad Faiz Zaidan Alharkan, in “Accelerating Climate Action in Asia and the Pacific: Fiscal Policy Solutions,” Edited by John Beirne, Donghyun Park, Arief Ramayandi, and Ulrich Volz, 2026. [[Book](https://www.adb.org/sites/default/files/publication/1149706/accelerating-climate-action-asia-and-pacific-fiscal-policy-solutions.pdf)]
+
 ## Selected Working Papers and Work-in-Progress
 - "Do returns to schooling and on-the-job training for informal workers differ from formal workers in Indonesia?", with Gumilang Aryo Sahadewo. [[Slides](assets/AASLE_2024.pdf)] [[Working Paper](https://ideas.repec.org/p/gme/wpaper/202507006.html)]
-- "Assessing Local Environmental Spending and Air Pollution Reduction in Indonesia: A Satellite Data Approach", with Ega Kurnia Yazid, Kelvin Ramadhan Hidayat, and Muhammad Faiz Zaidan Alharkan. [[Slides](assets/ADB_Conference.pdf)]
 - "The Impact of Commuting on Wages: Quasi-Experimental Evidence from Indonesia's Largest Metropolitan Area", with Naufal Mohamad Firdausyan. [[Slides](assets/APEF_Presentation_2025.pdf)]
 
 ## Short Articles
