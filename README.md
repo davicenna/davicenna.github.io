@@ -14,7 +14,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 - Bachelor of Economics - Universitas Gadjah Mada (UGM) (_2018 - 2022_)
 
 ## Publications
-### Book Chapter
+#### Book Chapter
 “Assessing Local Environmental Spending and Air Pollution Reduction in Indonesia: A Satellite Data Approach,” with Ega Kurnia Yazid, Kelvin Ramadhan Hidayat, and Muhammad Faiz Zaidan Alharkan, in “Accelerating Climate Action in Asia and the Pacific: Fiscal Policy Solutions,” Edited by John Beirne, Donghyun Park, Arief Ramayandi, and Ulrich Volz, 2026. [[Book](https://www.adb.org/sites/default/files/publication/1149706/accelerating-climate-action-asia-and-pacific-fiscal-policy-solutions.pdf)]
 
 ## Selected Working Papers and Work-in-Progress
