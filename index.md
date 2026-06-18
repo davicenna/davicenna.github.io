@@ -9,7 +9,7 @@ I am a Lecturer at the Department of Economics, Universitas Gadjah Mada (UGM), I
 
 My primary research interests lie in applied microeconomics — particularly **labour economics** and **development economics**. I currently teach introductory economics, statistics for economics, and mathematics for economics at the undergraduate and pre-master level.
 
-*In my spare time, I enjoy running, hiking, and trekking in nature.*
+In my spare time, I enjoy running, hiking, and trekking in nature.
 
 <h2>Education</h2>
 
