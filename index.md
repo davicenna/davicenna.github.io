@@ -6,14 +6,14 @@ permalink: /
 I am a Lecturer at the Department of Economics, Universitas Gadjah Mada (UGM),
 Indonesia. I earned my bachelor's degree from UGM and my master's degree from
 the Research School of Economics, The Australian National University (ANU),
-supported by the **LPDP scholarship** from Indonesia's Ministry of Finance.
+supported by the LPDP scholarship from Indonesia's Ministry of Finance.
 
 My primary research interests lie in applied microeconomics — particularly
-**labour economics** and **development economics**. I currently teach
+labour economics and development economics. I currently teach
 introductory economics, statistics for economics, and mathematics for
 economics at the undergraduate and pre-master level.
 
-*In my spare time, I enjoy running, hiking, and trekking in nature.*
+In my spare time, I enjoy running, hiking, and trekking in nature.
 
 ## Education
 
@@ -45,8 +45,7 @@ economics at the undergraduate and pre-master level.
   Indonesia's Largest Metropolitan Area", with Naufal Mohamad Firdausyan.
   [[Slides](/assets/APEF_Presentation_2025.pdf)]
 
-> See the [Research](/research.html) page for the full list, including
-> work-in-progress with co-authors at UGM and RMIT.
+> See the [Research](/research.html) page for the full list.
 
 ## Short Articles
 
