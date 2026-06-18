@@ -3,6 +3,8 @@ title:     "Teaching"
 permalink: /teaching.html
 ---
 
+
+
 ## Faculty of Economics and Business, UGM
 
 - **EBIE222104** Statistics 1 (Undergraduate) — 2025
