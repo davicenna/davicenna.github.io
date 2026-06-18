@@ -28,6 +28,16 @@
    Larger profile picture in the author sidebar
    (MM default is max-width: 110px).
    ---------------------------------------------------------------- */
+/* Larger profile picture in the author sidebar */
+.author__avatar {
+  display: block;
+  text-align: center;
+}
+
 .author__avatar img {
-  max-width: 200px;
+  width: 180px;
+  height: 180px;
+  max-width: 180px;
+  object-fit: cover;
+  border-radius: 50%;
 }
