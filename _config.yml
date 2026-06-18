@@ -34,12 +34,12 @@ author:
     - label: "LinkedIn"
       icon:  "fab fa-fw fa-linkedin"
       url:   "https://linkedin.com/in/dataavicenna"
+    - label: "CV (PDF)"
+      icon:  "fas fa-fw fa-file-pdf"
+      url:   "/assets/CV_Data_Avicenna_2026.pdf"
     - label: "Medium"
       icon:  "fab fa-fw fa-medium"
       url:   "https://dataavicenna.medium.com"
-    - label: "CV (PDF)"
-      icon:  "fas fa-fw fa-file-pdf"
-      url:   "/assets/CV.pdf"
 
 # Footer
 footer:
