@@ -28,17 +28,37 @@
    Larger profile picture in the author sidebar
    (MM default is max-width: 110px).
    ---------------------------------------------------------------- */
-/* Responsive profile picture in the author sidebar */
+/* Responsive author profile picture */
 .author__avatar {
-  display: block;
-  text-align: center;
-  --avatar-size: clamp(110px, 18vw, 200px);
+  --avatar-size: 72px;
+
+  width: var(--avatar-size) !important;
+  min-width: var(--avatar-size) !important;
+  height: var(--avatar-size) !important;
+  margin-right: 1rem;
 }
 
 .author__avatar img {
-  width: var(--avatar-size);
-  height: var(--avatar-size);
-  max-width: 100%;
+  width: var(--avatar-size) !important;
+  height: var(--avatar-size) !important;
+  max-width: var(--avatar-size) !important;
   object-fit: cover;
   border-radius: 50%;
+  display: block;
+}
+
+/* Slightly larger on tablet */
+@media (min-width: 48em) {
+  .author__avatar {
+    --avatar-size: 90px;
+  }
+}
+
+/* Larger only when the full desktop sidebar layout appears */
+@media (min-width: 64em) {
+  .author__avatar {
+    --avatar-size: 180px;
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
 }
