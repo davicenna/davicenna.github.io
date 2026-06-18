@@ -42,17 +42,7 @@ author:
       url:   "https://dataavicenna.medium.com"
 
 # Footer
-footer:
-  links:
-    - label: "Email"
-      icon:  "fas fa-fw fa-envelope"
-      url:   "mailto:dataavicenna@ugm.ac.id"
-    - label: "LinkedIn"
-      icon:  "fab fa-fw fa-linkedin"
-      url:   "https://linkedin.com/in/dataavicenna"
-    - label: "Google Scholar"
-      icon:  "fas fa-fw fa-graduation-cap"
-      url:   "https://scholar.google.com/citations?user=CyHRuT0AAAAJ&hl=en&oi=ao"
+
 
 # ============================================================
 #  Reading / build
