@@ -1,0 +1,15 @@
+main:
+  - title: "About"
+    url:   /
+
+  - title: "Research"
+    url:   /research.html
+
+  - title: "Teaching"
+    url:   /teaching.html
+
+  - title: "CV"
+    url:   /assets/CV.pdf
+
+  - title: "Medium"
+    url:   https://dataavicenna.medium.com
