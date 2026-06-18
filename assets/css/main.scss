@@ -12,11 +12,6 @@
 /* ----------------------------------------------------------------
    Slightly smaller text — but ONLY in the main content column.
    The author-profile sidebar keeps the theme's default size.
-
-   MM defaults inside .page__content are 16 / 18 / 20 / 22 px
-   across breakpoints. These nudge them down to 14 / 15 / 16 / 17.
-   MM uses em-based scaling for h2/h3/etc. *inside* .page__content,
-   so the headings shrink proportionally with the body text.
    ---------------------------------------------------------------- */
 .page__content                              { font-size: 14px; }
 @media (min-width: 48em)  { .page__content  { font-size: 15px; } }   /* ≥ 768px  */
@@ -28,3 +23,11 @@
    section heading underneath it.
    ---------------------------------------------------------------- */
 .page__title { margin-bottom: 1.75rem; }
+
+/* ----------------------------------------------------------------
+   Larger profile picture in the author sidebar
+   (MM default is max-width: 110px).
+   ---------------------------------------------------------------- */
+.author__avatar img {
+  max-width: 150px;
+}
