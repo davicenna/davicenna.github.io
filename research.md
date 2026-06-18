@@ -13,7 +13,7 @@ permalink: /research.html
   Indonesia: A Satellite Data Approach," with Ega Kurnia Yazid, Kelvin
   Ramadhan Hidayat, and Muhammad Faiz Zaidan Alharkan, in Chapter 10 of
   *Accelerating Climate Action in Asia and the Pacific: Fiscal Policy
-  Solutions*, eds. John Beirne, Donghyun Park, Arief Ramayandi, and Ulrich
+  Solutions*, edited by John Beirne, Donghyun Park, Arief Ramayandi, and Ulrich
   Volz, 2026. Published by the Asian Development Bank Institute.
   [[Chapter](https://www.adb.org/sites/default/files/publication/1149706/accelerating-climate-action-asia-and-pacific-fiscal-policy-solutions.pdf#page=296)]
   [[Volume](https://www.adb.org/adbi/publications/accelerating-climate-action-in-asia-and-the-pacific-fiscal-policy-solutions)]
