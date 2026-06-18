@@ -4,25 +4,27 @@
 ---
 
 /* ----------------------------------------------------------------
-   Slightly smaller base font sizes across all breakpoints.
-   Minimal Mistakes defaults: 16 / 18 / 20 / 22.
-   ---------------------------------------------------------------- */
-$doc-font-size:         14;   // mobile / default
-$doc-font-size-medium:  15;   // ≥768px
-$doc-font-size-large:   16;   // ≥1024px
-$doc-font-size-x-large: 17;   // ≥1280px
-
-/* ----------------------------------------------------------------
-   Pull in the Minimal Mistakes stylesheets *after* the overrides
-   above, so our variables win.
+   Pull in the Minimal Mistakes stylesheets first, then override.
    ---------------------------------------------------------------- */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
 /* ----------------------------------------------------------------
-   Extra breathing room between the page title (h1) and the first
+   Slightly smaller text — but ONLY in the main content column.
+   The author-profile sidebar keeps the theme's default size.
+
+   MM defaults inside .page__content are 16 / 18 / 20 / 22 px
+   across breakpoints. These nudge them down to 14 / 15 / 16 / 17.
+   MM uses em-based scaling for h2/h3/etc. *inside* .page__content,
+   so the headings shrink proportionally with the body text.
+   ---------------------------------------------------------------- */
+.page__content                              { font-size: 14px; }
+@media (min-width: 48em)  { .page__content  { font-size: 15px; } }   /* ≥ 768px  */
+@media (min-width: 64em)  { .page__content  { font-size: 16px; } }   /* ≥ 1024px */
+@media (min-width: 80em)  { .page__content  { font-size: 17px; } }   /* ≥ 1280px */
+
+/* ----------------------------------------------------------------
+   Breathing room between the page title (h1) and the first
    section heading underneath it.
    ---------------------------------------------------------------- */
-.page__title {
-  margin-bottom: 1.75rem;
-}
+.page__title { margin-bottom: 1.75rem; }
