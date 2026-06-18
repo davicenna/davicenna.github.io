@@ -1,27 +1,102 @@
-title: Data Avicenna
-description: Lecturer at the Department of Economics, Universitas Gadjah Mada
-url: "https://davicenna.github.io"
-author: Data Avicenna
-logo: /assets/img/profile.png
+# ============================================================
+#  Site
+# ============================================================
+title:        "Data Avicenna"
+name:         "Data Avicenna"
+description:  "Lecturer at the Department of Economics, Universitas Gadjah Mada (UGM)."
+url:          "https://davicenna.github.io"
+locale:       "en-US"
 
-# Tagline shown in the hero (kept editable so you can tweak it
-# without touching the layout file).
-tagline_role:   "Lecturer"
-tagline_dept:   "Department of Economics"
-tagline_school: "Faculty of Economics and Business, Universitas Gadjah Mada"
+# ============================================================
+#  Theme — Minimal Mistakes via GitHub Pages remote_theme
+#  https://mmistakes.github.io/minimal-mistakes/
+# ============================================================
+remote_theme:           "mmistakes/minimal-mistakes@4.28.0"
+# Available skins: default, air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
+# Try changing this one line to see a completely different colour scheme.
+minimal_mistakes_skin:  "air"
 
-# Contact / social handles used by the hero icons.
-# Leave blank to hide that icon.
-email:        "dataavicenna@ugm.ac.id"
-linkedin:     "https://linkedin.com/in/dataavicenna"
-scholar:      "https://scholar.google.com/citations?user=CyHRuT0AAAAJ&hl=en&oi=ao"
-medium:       "https://dataavicenna.medium.com"
-cv_pdf:       "assets/CV.pdf"
+# ============================================================
+#  Author profile (renders as the left sidebar on every page)
+# ============================================================
+author:
+  name:   "Data Avicenna"
+  avatar: "/assets/img/profile.png"
+  bio:    "Lecturer, Department of Economics, Universitas Gadjah Mada (UGM). Applied microeconomics — labour & development."
+  location: "Yogyakarta, Indonesia"
+  links:
+    - label: "Email"
+      icon:  "fas fa-fw fa-envelope"
+      url:   "mailto:dataavicenna@ugm.ac.id"
+    - label: "Google Scholar"
+      icon:  "fas fa-fw fa-graduation-cap"
+      url:   "https://scholar.google.com/citations?user=CyHRuT0AAAAJ&hl=en&oi=ao"
+    - label: "LinkedIn"
+      icon:  "fab fa-fw fa-linkedin"
+      url:   "https://linkedin.com/in/dataavicenna"
+    - label: "Medium"
+      icon:  "fab fa-fw fa-medium"
+      url:   "https://dataavicenna.medium.com"
+    - label: "CV (PDF)"
+      icon:  "fas fa-fw fa-file-pdf"
+      url:   "/assets/CV.pdf"
 
-# We override the layout entirely so no remote_theme is needed.
-# (If you'd like to keep it for any reason, uncomment the next two lines.)
-# remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-#   - jekyll-remote-theme
+# Footer
+footer:
+  links:
+    - label: "Email"
+      icon:  "fas fa-fw fa-envelope"
+      url:   "mailto:dataavicenna@ugm.ac.id"
+    - label: "LinkedIn"
+      icon:  "fab fa-fw fa-linkedin"
+      url:   "https://linkedin.com/in/dataavicenna"
+    - label: "Google Scholar"
+      icon:  "fas fa-fw fa-graduation-cap"
+      url:   "https://scholar.google.com/citations?user=CyHRuT0AAAAJ&hl=en&oi=ao"
 
-show_downloads: false
+# ============================================================
+#  Reading / build
+# ============================================================
+markdown:         kramdown
+highlighter:      rouge
+breadcrumbs:      false
+search:           true
+search_full_content: true
+words_per_minute: 200
+
+# Reasonable defaults: every page gets the sidebar profile + the
+# "single" layout, so you never have to repeat front matter.
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout:         single
+      author_profile: true
+      classes:        wide
+      show_date:      false
+      read_time:      false
+      comments:       false
+      share:          false
+      related:        false
+
+# Keep .html URLs (matches your existing links)
+permalink: /:basename:output_ext
+
+# ============================================================
+#  Plugins (all GitHub-Pages-approved)
+# ============================================================
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude theme dev artefacts from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
