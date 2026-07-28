@@ -40,6 +40,8 @@ permalink: /research.html
   Muhammad Ryan Sanjaya, Anggi Rahajeng, Naufal Mohamad Firdausyan, and
   Simon Feeny.
 
+- "Connecting the Core, Bypassing the Periphery? The Impacts of Toll Road Expansion in Indonesia" with Elan Satriawan, Jamilatuzzahro, and Naufal Mohamad Firdausyan.
+
 ## Research Assistantship
 
 - "Do Celebrity Endorsements Matter? A Twitter Experiment Promoting
