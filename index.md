@@ -8,8 +8,8 @@ Indonesia. I earned my bachelor's degree from UGM and my master's degree from
 the Research School of Economics, The Australian National University (ANU),
 supported by the LPDP scholarship from Indonesia's Ministry of Finance.
 
-My primary research interests lie in applied microeconomics — particularly
-labour economics and development economics. I currently teach
+My primary research interests lie in applied microeconomics — including topics related but not limited to
+labour economics, development economics, and public economics. I currently teach
 introductory economics, statistics for economics, and mathematics for
 economics at the undergraduate and pre-master level.
 
