@@ -7,17 +7,18 @@ permalink: /teaching.html
 
 ## Faculty of Economics and Business, UGM
 
-- **EBIE222104** Statistics 1 (Undergraduate) — 2025
-- **EBIE222204** Statistics 2 (Undergraduate) — 2026
 - **EBIE222101** Introduction to Economics 1 (Undergraduate) — 2025
 - **EBIE222201** Introduction to Economics 2 (Undergraduate) — 2026
+- **EBIE222102** Mathematics 1 (Undergraduate) – 2026
+- **EBIE222104** Statistics 1 (Undergraduate) — 2025
+- **EBIE222204** Statistics 2 (Undergraduate) — 2026
 - **MAT13** Mathematics for Economics (Pre-Masters) — 2025 – 2026
 - **MAN5007** Managerial Economics (Pre-Masters) — 2026
 
 ## Other Faculties at UGM
 
 - **MMA2503** Introduction to Macroeconomics (Undergraduate, Faculty of
-  Mathematics and Natural Sciences) — 2025
+  Mathematics and Natural Sciences) — 2025 - 2026
 - **MMA1504** Introduction to Microeconomics (Undergraduate, Faculty of
   Mathematics and Natural Sciences) — 2026
 - **SPPP212105** Introduction to Economics (Undergraduate, Faculty of Social
