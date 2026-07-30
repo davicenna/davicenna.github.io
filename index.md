@@ -18,7 +18,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 ## Education
 
 - **Master of Economic Policy** — The Australian National University (ANU), *2023 – 2024*
-- **Bachelor of Economics** — Universitas Gadjah Mada (UGM), *2018 – 2022*
+- **Bachelor of Science in Economics** — Universitas Gadjah Mada (UGM), *2018 – 2022*
 
 ## Publications
 
