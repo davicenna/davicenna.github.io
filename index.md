@@ -9,7 +9,8 @@ the Research School of Economics, The Australian National University (ANU),
 supported by the LPDP scholarship from Indonesia's Ministry of Finance.
 
 My primary research interests lie in applied microeconomics — including topics related but not limited to
-labour economics, development economics, and public economics. I currently teach
+labour economics, development economics, and public economics. I am particularly interested in policy-relevant 
+research questions that uses impact evaluation methods. I currently teach
 introductory economics, statistics for economics, and mathematics for
 economics at the undergraduate and pre-master level.
 
