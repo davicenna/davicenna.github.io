@@ -50,7 +50,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 
 ## Short Articles
 
-- “Burning questions over Indonesia’s cooking transition”, with Intan Permata Sari, 2025, in *East Asia Forum*. [[PDF](/assets/avicenna-sari-2025-cooking-transition.pdf)] [[Original Article](https://doi.org/10.59425/eabc.1740088800)]
+- “Burning questions over Indonesia’s cooking transition”, with Intan Permata Sari, 2025, in *East Asia Forum*. [[Link](https://doi.org/10.59425/eabc.1740088800)]
 
 - "Tackling Poverty Amidst COVID-19 in Indonesia", 2020, in *AASYP Horizons
   Blog*.
