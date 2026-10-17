@@ -38,7 +38,7 @@ In my spare time, I enjoy running, hiking, and trekking in nature.
 
 - "Do returns to schooling and on-the-job training differ
   between informal and formal workers in Indonesia?", with Gumilang Aryo Sahadewo.
-  *(Revise & Resubmit, Journal of Development Studies.)*
+  *(Revised & Resubmitted)*
   [[Working Paper](https://ideas.repec.org/p/gme/wpaper/202507006.html)]
   [[Slides](/assets/AASLE_2024.pdf)]
 
