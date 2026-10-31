@@ -30,15 +30,15 @@ permalink: /research.html
   Indonesia's Largest Metropolitan Area", with Naufal Mohamad Firdausyan.
   [[Slides](/assets/APEF_Presentation_2025.pdf)]
 
+- "From Ores to Prosperity? The Local Welfare Effects of Mineral
+  Downstreaming Industry in Indonesia", with Yudistira Hendra Permana,
+  Muhammad Ryan Sanjaya, Anggi Rahajeng, Naufal Mohamad Firdausyan, and
+  Simon Feeny. *(Revision Requested)*
+
 - "Mines, Smelter, and Health: How Resource-Led Industrialization Shapes
   Community Health Development in Indonesia", with Muhammad Ryan Sanjaya,
   Yudistira Hendra Permana, Fatima Putri Prativi, Naufal Mohamad Firdausyan,
   and Simon Feeny.
-
-- "From Ores to Prosperity? The Local Welfare Effects of Mineral
-  Downstreaming Industry in Indonesia", with Yudistira Hendra Permana,
-  Muhammad Ryan Sanjaya, Anggi Rahajeng, Naufal Mohamad Firdausyan, and
-  Simon Feeny.
 
 - "Connecting the Core, Bypassing the Periphery? The Impacts of Toll Road Expansion in Indonesia" with Elan Satriawan, Jamilatuzzahro, and Naufal Mohamad Firdausyan.
 
